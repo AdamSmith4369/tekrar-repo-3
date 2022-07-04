@@ -1,8 +1,5 @@
 Merhaba Selamlar
-<<<<<<< HEAD
-Sana da selamlar
-Cevap hoş olmadı..
-=======
 Sana da selamlar..
 Sen nasılsın dedin mi?
->>>>>>> 29d47433197629ce2a383534a6462e1b6c002d10
+Sana da selamlar
+Cevap hoş olmadı..
